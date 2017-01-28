@@ -1,0 +1,148 @@
+body{
+  font-size: 14px;
+  font-family: "PTSans Narrow";
+  color: #000000;
+  font-weight: bold;
+  line-height: 18px;
+  background-image: url("img/main.jpg");
+   background-repeat: no-repeat;
+}
+.side-left{
+  float: left;
+  width: 306px;
+  height:695px;
+}
+
+.side-right{
+  float: right;
+  width: 705px;
+  height:680px;
+}
+
+.side-left1{
+  float: left;
+  width: 390px;
+  height: 510px;
+}
+
+.side-right1{
+  float: right;
+  width: 630px;
+  height: 798px;
+}
+
+.container {
+  font-size: 16px;
+  line-height: 20px;
+  color: #ffffff;
+  background-color: #000000;
+  background-image: url("img/Logo.png");
+  background-image: url("img/enter.png");
+  background-repeat: no-repeat;
+}
+
+h1{
+  font-size: 30px;
+  line-height: 42px;
+}
+
+.breadcrumbs{
+  line-height: 20px;
+    background-image: url("img/Shape-1.png");
+    background-image: url("img/Shape-1.png");
+    background-repeat: no-repeat;
+  }
+
+.breadcrumbs2{
+  line-height: 20px;
+    background-image: url("img/Shape-1.png");
+    background-image: url("img/Shape-1.png");
+    background-image: url("img/Shape-1.png");
+    background-repeat: no-repeat;
+  }
+
+.active-crumb{
+  color: #aba9a7;
+}
+
+.info{
+  line-height: 24px;
+}
+
+.info-art{
+  color: #aeaeae;
+}
+
+h2,
+.title{
+  font-size: 24px;
+  line-height: 30px;
+}
+
+.button-show{
+  font-size: 13px;
+  color: #ffffff;
+  line-height: 20px;
+}
+
+article {
+  width: 220px;
+  height: 286px;
+}
+
+.button{
+  color: #ffffff;
+  width: 78px;
+  height: 43px;
+  padding: 17px 19px 17px 19px;
+  background-color: #000000;
+}
+
+.button-buy{
+  color: #ffffff;
+  width: 78px;
+  height: 43px;
+  padding: 17px 17px 17px 17px;
+  background-color: #000000;
+  line-height: 24px;
+}
+
+.price{
+  width: 109px;
+  height: 43px;
+  padding: 17px 25px 17px 25px;
+  background-color: #e5e5e5;
+
+}
+
+.pages{
+
+  color: #ffffff;
+  background-color: #000000;
+
+}
+
+.active-page{
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.main-footer{
+  color: #ffffff;
+  line-height: 24px;
+  background-image: url("img/footer.jpg");
+  background-repeat: no-repeat;
+  clear: both;
+}
+
+.social-btn{
+  background-image: url("img/vk.png");
+  background-image: url("img/facebook.png");
+  background-image: url("img/insta.png");
+  background-repeat: no-repeat;
+  background-color: #000000;
+}
+
+.btn{
+  background-color: #000000;
+}
